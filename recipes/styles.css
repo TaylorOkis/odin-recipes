@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: rgb(253, 255, 245);
+}
+
+h2 {
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 80.5px;
+    font-style: italic;
+    font-family: "Apple Chancery", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.content {
+    width: 700px;
+    margin: auto;
+}
+
+#desc, #ingredients, #steps {
+    font-size: 18px;
+}
+
+#desc {
+    background-color: rgb(252, 208, 214);
+}
+
+#ingredients {
+    background-color: rgb(210, 236, 245);
+}
+
+#steps {
+    background-color: lightgreen;
+}
